@@ -32,8 +32,3 @@ object No851 {
     return (for(i <- 0 to n-1) yield dfs(i)).toArray
   }
 }
-
-  def main(args: Array[String]): Unit = {
-    println("")
-  }
-}
