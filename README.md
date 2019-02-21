@@ -1,6 +1,7 @@
-# leetcode-cn-scala
+##### Scala Solution for Leetcode
 
-* learn and practice 'scala' by trying leetcode problems. 
+* 406. Queue Reconstruction by Height
+** 对(h,k) 按照h降序、k升序, 进行排序
+** 依次插入 k是几就插到第几个位置
 
-* my code perhaps is not a good way to solve the problem, but it should be my way to learn scala programming lang.
 
