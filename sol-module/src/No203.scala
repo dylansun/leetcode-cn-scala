@@ -3,7 +3,7 @@
   */
 object No203 {
   def removeElements(head: ListNode, v: Int): ListNode = {
-    if(head == null) return Nil
+    if(head == null) return null
     if(head.x != v){
       head.next = removeElements(head.next, v)
       return head
