@@ -2,7 +2,6 @@
   * Created by lilisun on 2/15/19.
   */
 object No51 {
-  def totalNQueens(n: Int): Int = genCands(n).size
   def solveNQueens(n: Int): List[List[String]] = genCands(n)
 
   def genCands(n: Int): List[List[String]] = {
