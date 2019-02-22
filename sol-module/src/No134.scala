@@ -1,7 +1,7 @@
 /**
   * Created by lilisun on 2/22/19.
   */
-class No134 {
+object No134 {
   def canCompleteCircuit(gas: Array[Int], cost: Array[Int]): Int = {
     val gain = for(x <- gas.indices) yield gas(x) - cost(x)
     if(gain.sum < 0) return -1
