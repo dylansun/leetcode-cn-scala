@@ -1,6 +1,3 @@
-/**
-  * Created by lilisun on 2/22/19.
-  */
 import scala.collection.mutable.ArrayBuffer
 object No406 {
   def reconstructQueue(people: Array[Array[Int]]): Array[Array[Int]] = {
