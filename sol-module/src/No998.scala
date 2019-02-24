@@ -1,8 +1,3 @@
-import javax.swing.tree.TreeNode
-
-/**
-  * Created by lilisun on 2/24/19.
-  */
 object No998 {
   def insertIntoMaxTree(root: TreeNode, value: Int): TreeNode = {
     if(root == null) new TreeNode(value)
