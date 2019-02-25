@@ -20,5 +20,6 @@ object No400 {
 
   def main(args: Array[String]): Unit = {
     println(findNthDigit(1000))
+    println(1000 ^ 1)
   }
 }
