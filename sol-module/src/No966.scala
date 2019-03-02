@@ -34,7 +34,7 @@ object No966 {
     }).toString
   }
 
-  def spellchecker_WA(wordlist: Array[String], queries: Array[String]): Array[String] = {
+  def spellchecker_TLE(wordlist: Array[String], queries: Array[String]): Array[String] = {
     queries.map( query => {
       val t = wordlist.map(word => stringCompare(word,query)).zipWithIndex.sortBy(_._1).head
       if(t._1 == 4) -1 else t._2
