@@ -8,7 +8,7 @@ object No987 {
     val m =mutable.HashMap[Int, List[(Int,Int)]]()
     def levelOrderTraversal(root: TreeNode,key:Int, d: Int):Unit = {
       if(root != null){
-        m.put(key, List((root.value, d)):::m.getOrElse(key, Nil))
+        m.put(key, (root.value, d)::m.getOrElse(key, Nil))
         levelOrderTraversal(root.left, key-1, d+1)
         levelOrderTraversal(root.right, key+1, d +1)
       }
