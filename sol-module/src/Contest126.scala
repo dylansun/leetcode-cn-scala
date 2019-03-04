@@ -39,16 +39,33 @@ object Contest126 {
       else if(S.replace("abc","") == S) false
       else isValid(S.replace("abc",""))
     }
+  case class Stones(stones: List[Int], K: Int)
+  val mem = mutable.HashMap[Stones, Int]()
 
   def mergeStones_bf(stones: Array[Int], K: Int): Int = {
-    if (K < 2 || (K > 2 && stones.length % (K - 1) != 1)) return -1
-    if(stones.length == K) return stones.sum
-    (for(x <- 0 to stones.length - K) yield {
+    val thisStone = Stones(stones.toList, K)
+    if(mem.contains(thisStone)){
+      //println(s"found in mem: Stone ${thisStone.stones}")
+      return mem(thisStone)
+    }
+    if (K < 2 || (K > 2 && stones.length % (K - 1) != 1)) {
+      mem(thisStone) = -1
+      return -1
+    }
+    if(stones.length == K){
+      mem(thisStone) = stones.sum
+      return stones.sum
+    }
+    val ans = (for(x <- 0 to stones.length - K) yield {
       val sum = stones.slice(x,x+K).sum
       val newStone = stones.slice(0,x) ++ Array(sum) ++ stones.slice(x+K, stones.length)
+      //println(s"sum: $sum, newStone: ${newStone.toList}")
       sum + mergeStones_bf(newStone, K)
     }).min
+    mem(thisStone) = ans
+    ans
   }
+
 
   def mergeStones_dp(stones: Array[Int], K: Int): Int = {
     val INF = 1e9.toInt
@@ -76,7 +93,7 @@ object Contest126 {
         for (k<-2 to K) {
           f(i)(j)(k) = INF
           for (t<-i until j)
-          f(i)(j)(k) = f(i)(j)(k) min f(i)(t)(k-1)+f(t+1)(j)(1)
+          f(i)(j)(k) = f(i)(j)(k) min f(i)(t)(k-1)+f(t+1)(j)(1)// 理解这个公式, 分成(k-1)和1  而不是 k-i和i
           println(s"i: $i, j: $j, k: $k, f(i,j,k):${ f(i)(j)(k)}")
         }
         f(i)(j)(1) = f(i)(j)(K) + sum(j)-(if(i>0) sum(i-1) else 0)
@@ -95,7 +112,23 @@ object Contest126 {
 
     val x = Array(69,39,79,78,16,6,36,97,79,27,14,31,4)
     val x2 = Array(3,2,4,1)
-    val x3 = Array(6,4,9,3,1)
-    println(mergeStones_dp(x3, 3))
+
+
+    val x3 = Array(6,4,9,3,1,2,87,28,22) // ans: 383 time: about 1000, use mem time 81
+    val x4 = Array(16,43,87,30,4,98,12,30,47,45,32,4,64,14,24,84,86,51,11,22,4) // dp time: 73, mem bf time: 39329
+    val x5 = List(1,2,3)
+    val x6 = List(1,2,3)
+    println(x5 == x6)
+    println(x3 == x4)
+    println(Stones(x3.toList, 2) == Stones(x4.toList, 2))
+    val t1 = System.currentTimeMillis()
+    println(mergeStones_bf(x2, 2))
+    val t2 = System.currentTimeMillis()
+    println(s"time: ${t2 - t1}")
+
+    println(mergeStones_bf(x4, 2))
+    val t3 = System.currentTimeMillis()
+    println(s"time: ${t3 - t2}")
+    println(mem.size)
   }
 }
