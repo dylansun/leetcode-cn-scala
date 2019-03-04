@@ -17,7 +17,7 @@ object No967 {
     }
     if(N == 1)
       ans += 0
-    ans
+    ans.toArray
   }
 
   def numsSameConsecDiff_naive(N: Int, K: Int): Array[Int] = {
