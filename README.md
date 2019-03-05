@@ -24,7 +24,7 @@
 |982|Triples with Bitwise AND Equal To Zero Hard|[Scala](sol-module/src/No982.scala)|[Report](TO DO)|
 |981|Time Based Key-Value Store Medium|[Scala](sol-module/src/No981.scala)|[Report](TO DO)|
 |980|Unique Paths III Hard|[Scala](sol-module/src/No980.scala)|[Report](TO DO)|
-|979|Distribute Coins in Binary Tree Medium|[Scala](sol-module/src/No979.scala)|[Report](TO DO)|
+|979|Distribute Coins in Binary Tree Medium|[Scala](sol-module/src/No979.scala)|[Report](report/ReportNo979.md)|
 |977|Squares of a Sorted Array Easy|[Scala](sol-module/src/No977.scala)|[Report](TO DO)|
 |976|Largest Perimeter Triangle Easy|[Scala](sol-module/src/No976.scala)|[Report](TO DO)|
 |975|Odd Even Jump Hard|[Scala](sol-module/src/No975.scala)|[Report](TO DO)|
