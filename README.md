@@ -22,6 +22,7 @@
 |984|String Without AAA or BBB Easy|[Scala](sol-module/src/No984.scala)|[Report](TO DO)|
 |983|Minimum Cost For Tickets Medium|[Scala](sol-module/src/No983.scala)|[Report](TO DO)|
 |982|Triples with Bitwise AND Equal To Zero Hard|[Scala](sol-module/src/No982.scala)|[Report](TO DO)|
+|981|Time Based Key-Value Store Medium|[Scala](sol-module/src/No981.scala)|[Report](TO DO)|
 |980|Unique Paths III Hard|[Scala](sol-module/src/No980.scala)|[Report](TO DO)|
 |977|Squares of a Sorted Array Easy|[Scala](sol-module/src/No977.scala)|[Report](TO DO)|
 |976|Largest Perimeter Triangle Easy|[Scala](sol-module/src/No976.scala)|[Report](TO DO)|
