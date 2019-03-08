@@ -39,19 +39,28 @@
 |966|Vowel Spellchecker Medium|[Scala](sol-module/src/No966.scala)|[Report](TO DO)|
 |965|Univalued Binary Tree Easy|[Scala](sol-module/src/No965.scala)|[Report](TO DO)|
 |964|Least Operators to Express Number Hard|[Scala](sol-module/src/No964.scala)|[Report](TO DO)|
+|963|Minimum Area Rectangle II Medium|[Scala](sol-module/src/No963.scala)|[Report](TO DO)|
+|962|Maximum Width Ramp Medium|[Scala](sol-module/src/No962.scala)|[Report](TO DO)|
 |960|Delete Columns to Make Sorted III Hard|[Scala](sol-module/src/No960.scala)|[Report](TO DO)|
+|953|Verifying an Alien Dictionary Easy|[Scala](sol-module/src/No953.scala)|[Report](TO DO)|
 |949|Largest Time for Given Digits Easy|[Scala](sol-module/src/No949.scala)|[Report](TO DO)|
 |944|Delete Columns to Make Sorted Easy|[Scala](sol-module/src/No944.scala)|[Report](TO DO)|
+|942|DI String Match Easy|[Scala](sol-module/src/No942.scala)|[Report](TO DO)|
+|941|Valid Mountain Array Easy|[Scala](sol-module/src/No941.scala)|[Report](TO DO)|
 |937|Reorder Log Files Easy|[Scala](sol-module/src/No937.scala)|[Report](TO DO)|
 |936|Stamping The Sequence Hard|[Scala](sol-module/src/No936.scala)|[Report](TO DO)|
 |935|Knight Dialer Medium|[Scala](sol-module/src/No935.scala)|[Report](TO DO)|
+|933|Number of Recent Calls Easy|[Scala](sol-module/src/No933.scala)|[Report](TO DO)|
 |931|Minimum Falling Path Sum Medium|[Scala](sol-module/src/No931.scala)|[Report](TO DO)|
 |929|Unique Email Addresses Easy|[Scala](sol-module/src/No929.scala)|[Report](TO DO)|
 |925|Long Pressed Name Easy|[Scala](sol-module/src/No925.scala)|[Report](TO DO)|
 |922|Sort Array By Parity II Easy|[Scala](sol-module/src/No922.scala)|[Report](TO DO)|
 |917|Reverse Only Letters Easy|[Scala](sol-module/src/No917.scala)|[Report](TO DO)|
 |914|X of a Kind in a Deck of Cards Easy|[Scala](sol-module/src/No914.scala)|[Report](TO DO)|
+|905|Sort Array By Parity Easy|[Scala](sol-module/src/No905.scala)|[Report](TO DO)|
 |898|Bitwise ORs of Subarrays Medium|[Scala](sol-module/src/No898.scala)|[Report](TO DO)|
+|896|Monotonic Array Easy|[Scala](sol-module/src/No896.scala)|[Report](TO DO)|
+|893|Groups of Special-Equivalent Strings Easy|[Scala](sol-module/src/No893.scala)|[Report](TO DO)|
 |886|Possible Bipartition Medium|[Scala](sol-module/src/No886.scala)|[Report](TO DO)|
 |884|Uncommon Words from Two Sentences Easy|[Scala](sol-module/src/No884.scala)|[Report](TO DO)|
 |877|Stone Game Medium|[Scala](sol-module/src/No877.scala)|[Report](TO DO)|
@@ -70,6 +79,13 @@
 |849|Maximize Distance to Closest Person 40.4%Easy|[Scala](sol-module/src/No849.scala)|[Report](TO DO)|
 |844|Backspace String Compare Easy|[Scala](sol-module/src/No844.scala)|[Report](TO DO)|
 |840|Magic Squares In Grid Easy|[Scala](sol-module/src/No840.scala)|[Report](TO DO)|
+|836|Rectangle Overlap Easy|[Scala](sol-module/src/No836.scala)|[Report](TO DO)|
+|832|Flipping an Image Easy|[Scala](sol-module/src/No832.scala)|[Report](TO DO)|
+|830|Positions of Large Groups Easy|[Scala](sol-module/src/No830.scala)|[Report](TO DO)|
+|824|Goat Latin Easy|[Scala](sol-module/src/No824.scala)|[Report](TO DO)|
+|821|Shortest Distance to a Character Easy|[Scala](sol-module/src/No821.scala)|[Report](TO DO)|
+|819|Most Common Word Easy|[Scala](sol-module/src/No819.scala)|[Report](TO DO)|
+|811|Subdomain Visit Count Easy|[Scala](sol-module/src/No811.scala)|[Report](TO DO)|
 |771|Jewels and Stones Easy|[Scala](sol-module/src/No771.scala)|[Report](TO DO)|
 |765|Couples Holding Hands 50.8%Hard|[Scala](sol-module/src/No765.scala)|[Report](TO DO)|
 |764|Largest Plus Sign Medium|[Scala](sol-module/src/No764.scala)|[Report](TO DO)|
