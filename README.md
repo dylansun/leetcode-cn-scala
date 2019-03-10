@@ -63,6 +63,7 @@
 |914|X of a Kind in a Deck of Cards Easy|[Scala](sol-module/src/No914.scala)|[Report](TO DO)|
 |905|Sort Array By Parity Easy|[Scala](sol-module/src/No905.scala)|[Report](TO DO)|
 |898|Bitwise ORs of Subarrays Medium|[Scala](sol-module/src/No898.scala)|[Report](TO DO)|
+|897|Increasing Order Search Tree Easy|[Scala](sol-module/src/No897.scala)|[Report](TO DO)|
 |896|Monotonic Array Easy|[Scala](sol-module/src/No896.scala)|[Report](TO DO)|
 |893|Groups of Special-Equivalent Strings Easy|[Scala](sol-module/src/No893.scala)|[Report](TO DO)|
 |886|Possible Bipartition Medium|[Scala](sol-module/src/No886.scala)|[Report](TO DO)|
@@ -108,8 +109,16 @@
 |747|Largest Number At Least Twice of Others 40.2%Easy|[Scala](sol-module/src/No747.scala)|[Report](TO DO)|
 |744|Find Smallest Letter Greater Than Target Easy|[Scala](sol-module/src/No744.scala)|[Report](TO DO)|
 |733|Flood Fill Easy|[Scala](sol-module/src/No733.scala)|[Report](TO DO)|
+|728|Self Dividing Numbers 69.0%Easy|[Scala](sol-module/src/No728.scala)|[Report](TO DO)|
+|724|Find Pivot Index 40.5%Easy|[Scala](sol-module/src/No724.scala)|[Report](TO DO)|
 |721|Accounts Merge Medium|[Scala](sol-module/src/No721.scala)|[Report](TO DO)|
+|720|Longest Word in Dictionary Easy|[Scala](sol-module/src/No720.scala)|[Report](TO DO)|
+|717|1-bit and 2-bit Characters Easy|[Scala](sol-module/src/No717.scala)|[Report](TO DO)|
 |710|Random Pick with Blacklist 30.6%Hard|[Scala](sol-module/src/No710.scala)|[Report](TO DO)|
+|707|Design Linked List Easy|[Scala](sol-module/src/No707.scala)|[Report](TO DO)|
+|706|Design HashMap Easy|[Scala](sol-module/src/No706.scala)|[Report](TO DO)|
+|705|Design HashSet 50.6%Easy|[Scala](sol-module/src/No705.scala)|[Report](TO DO)|
+|697|Partition to K Equal Sum Subsets Medium|[Scala](sol-module/src/No697.scala)|[Report](TO DO)|
 |693|Number of Distinct Islands 50.0%Medium|[Scala](sol-module/src/No693.scala)|[Report](TO DO)|
 |685|Repeated String Match Easy|[Scala](sol-module/src/No685.scala)|[Report](TO DO)|
 |684|Redundant Connection II 30.0%Hard|[Scala](sol-module/src/No684.scala)|[Report](TO DO)|
