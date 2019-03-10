@@ -2,9 +2,13 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
-|1004|Max Consecutive Ones III New Medium|[Scala](sol-module/src/No1004.scala)|[Report](TO DO)|
-|1003|Check If Word Is Valid After Substitutions New Medium|[Scala](sol-module/src/No1003.scala)|[Report](TO DO)|
-|1002|Find Common Characters New Easy|[Scala](sol-module/src/No1002.scala)|[Report](TO DO)|
+|1008|Construct Binary Search Tree from Preorder Traversal|[Scala](sol-module/src/No1008.scala)|[Report](TO DO)|
+|1007|Minimum Domino Rotations For Equal Row|[Scala](sol-module/src/No1007.scala)|[Report](TO DO)|
+|1006|Clumsy Factorial|[Scala](sol-module/src/No1006.scala)|[Report](TO DO)|
+|1005|Maximize Sum Of Array After K Negations|[Scala](sol-module/src/No1005.scala)|[Report](TO DO)|
+|1004|Max Consecutive Ones III Medium|[Scala](sol-module/src/No1004.scala)|[Report](TO DO)|
+|1003|Check If Word Is Valid After Substitutions Medium|[Scala](sol-module/src/No1003.scala)|[Report](TO DO)|
+|1002|Find Common Characters Easy|[Scala](sol-module/src/No1002.scala)|[Report](TO DO)|
 |1001|Grid Illumination Hard|[Scala](sol-module/src/No1001.scala)|[Report](TO DO)|
 |1000|Minimum Cost to Merge Stones Hard|[Scala](sol-module/src/No1000.scala)|[Report](TO DO)|
 |999|Available Captures for Rook Easy|[Scala](sol-module/src/No999.scala)|[Report](TO DO)|
@@ -85,12 +89,25 @@
 |824|Goat Latin Easy|[Scala](sol-module/src/No824.scala)|[Report](TO DO)|
 |821|Shortest Distance to a Character Easy|[Scala](sol-module/src/No821.scala)|[Report](TO DO)|
 |819|Most Common Word Easy|[Scala](sol-module/src/No819.scala)|[Report](TO DO)|
+|812|Largest Triangle Area 55.0%Easy|[Scala](sol-module/src/No812.scala)|[Report](TO DO)|
 |811|Subdomain Visit Count Easy|[Scala](sol-module/src/No811.scala)|[Report](TO DO)|
+|806|Number of Lines To Write String Easy|[Scala](sol-module/src/No806.scala)|[Report](TO DO)|
+|804|Unique Morse Code Words Easy|[Scala](sol-module/src/No804.scala)|[Report](TO DO)|
+|796|Rotate String Easy|[Scala](sol-module/src/No796.scala)|[Report](TO DO)|
+|788|Rotated Digits Easy|[Scala](sol-module/src/No788.scala)|[Report](TO DO)|
+|784|Letter Case Permutation Easy|[Scala](sol-module/src/No784.scala)|[Report](TO DO)|
+|783|Minimum Distance Between BST Nodes Easy|[Scala](sol-module/src/No783.scala)|[Report](TO DO)|
 |771|Jewels and Stones Easy|[Scala](sol-module/src/No771.scala)|[Report](TO DO)|
+|766|Toeplitz Matrix Easy|[Scala](sol-module/src/No766.scala)|[Report](TO DO)|
 |765|Couples Holding Hands 50.8%Hard|[Scala](sol-module/src/No765.scala)|[Report](TO DO)|
 |764|Largest Plus Sign Medium|[Scala](sol-module/src/No764.scala)|[Report](TO DO)|
+|762|Prime Number of Set Bits in Binary Representation Easy|[Scala](sol-module/src/No762.scala)|[Report](TO DO)|
 |757|Set Intersection Size At Least Two Hard|[Scala](sol-module/src/No757.scala)|[Report](TO DO)|
+|754|Reach a Number Easy|[Scala](sol-module/src/No754.scala)|[Report](TO DO)|
+|748|Shortest Completing Word Easy|[Scala](sol-module/src/No748.scala)|[Report](TO DO)|
 |747|Largest Number At Least Twice of Others 40.2%Easy|[Scala](sol-module/src/No747.scala)|[Report](TO DO)|
+|744|Find Smallest Letter Greater Than Target Easy|[Scala](sol-module/src/No744.scala)|[Report](TO DO)|
+|733|Flood Fill Easy|[Scala](sol-module/src/No733.scala)|[Report](TO DO)|
 |721|Accounts Merge Medium|[Scala](sol-module/src/No721.scala)|[Report](TO DO)|
 |710|Random Pick with Blacklist 30.6%Hard|[Scala](sol-module/src/No710.scala)|[Report](TO DO)|
 |693|Number of Distinct Islands 50.0%Medium|[Scala](sol-module/src/No693.scala)|[Report](TO DO)|
