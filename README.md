@@ -2,6 +2,10 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
+|1015|Numbers With|[Scala](sol-module/src/No1015.scala)|[Report](TO DO)|
+|1014|Capacity To Ship Packages Within D Days|[Scala](sol-module/src/No1014.scala)|[Report](TO DO)|
+|1013|Integer|[Scala](sol-module/src/No1013.scala)|[Report](TO DO)|
+|1012||[Scala](sol-module/src/No1012.scala)|[Report](TO DO)|
 |1008|Construct Binary Search Tree from Preorder Traversal|[Scala](sol-module/src/No1008.scala)|[Report](TO DO)|
 |1007|Minimum Domino Rotations For Equal Row|[Scala](sol-module/src/No1007.scala)|[Report](TO DO)|
 |1006|Clumsy Factorial|[Scala](sol-module/src/No1006.scala)|[Report](TO DO)|
@@ -22,6 +26,7 @@
 |989|Add to Array-Form of Integer Easy|[Scala](sol-module/src/No989.scala)|[Report](TO DO)|
 |988|Smallest String Starting From Leaf Medium|[Scala](sol-module/src/No988.scala)|[Report](TO DO)|
 |987|Vertical Order Traversal of a Binary Tree Medium|[Scala](sol-module/src/No987.scala)|[Report](TO DO)|
+|986|Interval List Intersections Medium|[Scala](sol-module/src/No986.scala)|[Report](TO DO)|
 |985|Sum of Even Numbers After Queries Easy|[Scala](sol-module/src/No985.scala)|[Report](TO DO)|
 |984|String Without AAA or BBB Easy|[Scala](sol-module/src/No984.scala)|[Report](TO DO)|
 |983|Minimum Cost For Tickets Medium|[Scala](sol-module/src/No983.scala)|[Report](TO DO)|
@@ -35,6 +40,7 @@
 |975|Odd Even Jump Hard|[Scala](sol-module/src/No975.scala)|[Report](TO DO)|
 |974|Subarray Sums Divisible by K Medium|[Scala](sol-module/src/No974.scala)|[Report](TO DO)|
 |973|K Closest Points to Origin Easy|[Scala](sol-module/src/No973.scala)|[Report](TO DO)|
+|972|Equal Rational Numbers Hard|[Scala](sol-module/src/No972.scala)|[Report](TO DO)|
 |971|Flip Binary Tree To Match Preorder Traversal Medium|[Scala](sol-module/src/No971.scala)|[Report](TO DO)|
 |970|Powerful Integers Easy|[Scala](sol-module/src/No970.scala)|[Report](TO DO)|
 |969|Pancake Sorting Medium|[Scala](sol-module/src/No969.scala)|[Report](TO DO)|
@@ -46,6 +52,10 @@
 |963|Minimum Area Rectangle II Medium|[Scala](sol-module/src/No963.scala)|[Report](TO DO)|
 |962|Maximum Width Ramp Medium|[Scala](sol-module/src/No962.scala)|[Report](TO DO)|
 |960|Delete Columns to Make Sorted III Hard|[Scala](sol-module/src/No960.scala)|[Report](TO DO)|
+|958|Check Completeness of a Binary Tree Medium|[Scala](sol-module/src/No958.scala)|[Report](TO DO)|
+|957|Prison Cells After N Days Medium|[Scala](sol-module/src/No957.scala)|[Report](TO DO)|
+|956|Tallest Billboard Hard|[Scala](sol-module/src/No956.scala)|[Report](TO DO)|
+|955|Delete Columns to Make Sorted II Medium|[Scala](sol-module/src/No955.scala)|[Report](report/ReportNo955.md)|
 |953|Verifying an Alien Dictionary Easy|[Scala](sol-module/src/No953.scala)|[Report](TO DO)|
 |949|Largest Time for Given Digits Easy|[Scala](sol-module/src/No949.scala)|[Report](TO DO)|
 |944|Delete Columns to Make Sorted Easy|[Scala](sol-module/src/No944.scala)|[Report](TO DO)|
@@ -55,6 +65,7 @@
 |936|Stamping The Sequence Hard|[Scala](sol-module/src/No936.scala)|[Report](TO DO)|
 |935|Knight Dialer Medium|[Scala](sol-module/src/No935.scala)|[Report](TO DO)|
 |933|Number of Recent Calls Easy|[Scala](sol-module/src/No933.scala)|[Report](TO DO)|
+|932|Beautiful Array Medium|[Scala](sol-module/src/No932.scala)|[Report](TO DO)|
 |931|Minimum Falling Path Sum Medium|[Scala](sol-module/src/No931.scala)|[Report](TO DO)|
 |929|Unique Email Addresses Easy|[Scala](sol-module/src/No929.scala)|[Report](TO DO)|
 |925|Long Pressed Name Easy|[Scala](sol-module/src/No925.scala)|[Report](TO DO)|
@@ -68,6 +79,7 @@
 |893|Groups of Special-Equivalent Strings Easy|[Scala](sol-module/src/No893.scala)|[Report](TO DO)|
 |886|Possible Bipartition Medium|[Scala](sol-module/src/No886.scala)|[Report](TO DO)|
 |884|Uncommon Words from Two Sentences Easy|[Scala](sol-module/src/No884.scala)|[Report](TO DO)|
+|882|Reachable Nodes In Subdivided Graph Hard|[Scala](sol-module/src/No882.scala)|[Report](TO DO)|
 |877|Stone Game Medium|[Scala](sol-module/src/No877.scala)|[Report](TO DO)|
 |876|Middle of the Linked List Easy|[Scala](sol-module/src/No876.scala)|[Report](TO DO)|
 |875|Koko Eating Bananas Medium|[Scala](sol-module/src/No875.scala)|[Report](TO DO)|
@@ -119,7 +131,11 @@
 |706|Design HashMap Easy|[Scala](sol-module/src/No706.scala)|[Report](TO DO)|
 |705|Design HashSet 50.6%Easy|[Scala](sol-module/src/No705.scala)|[Report](TO DO)|
 |697|Partition to K Equal Sum Subsets Medium|[Scala](sol-module/src/No697.scala)|[Report](TO DO)|
+|696|Degree of an Array Easy|[Scala](sol-module/src/No696.scala)|[Report](TO DO)|
 |693|Number of Distinct Islands 50.0%Medium|[Scala](sol-module/src/No693.scala)|[Report](TO DO)|
+|688|Non-Overlapping Subarrays Hard|[Scala](sol-module/src/No688.scala)|[Report](TO DO)|
+|687|Knight Probability in Chessboard Medium|[Scala](sol-module/src/No687.scala)|[Report](TO DO)|
+|686|Longest Univalue Path Easy|[Scala](sol-module/src/No686.scala)|[Report](TO DO)|
 |685|Repeated String Match Easy|[Scala](sol-module/src/No685.scala)|[Report](TO DO)|
 |684|Redundant Connection II 30.0%Hard|[Scala](sol-module/src/No684.scala)|[Report](TO DO)|
 |682|K Empty Slots 34.1%Hard|[Scala](sol-module/src/No682.scala)|[Report](TO DO)|
@@ -137,6 +153,7 @@
 |537|Complex Number Multiplication 65.0%Medium|[Scala](sol-module/src/No537.scala)|[Report](TO DO)|
 |532|K-diff Pairs in an Array Easy|[Scala](sol-module/src/No532.scala)|[Report](TO DO)|
 |530|Minimum Absolute Difference in BST Easy|[Scala](sol-module/src/No530.scala)|[Report](TO DO)|
+|528|Random Pick with Weight Medium|[Scala](sol-module/src/No528.scala)|[Report](TO DO)|
 |515|Find Largest Value in Each Tree Row Medium|[Scala](sol-module/src/No515.scala)|[Report](TO DO)|
 |504|Base|[Scala](sol-module/src/No504.scala)|[Report](TO DO)|
 |502|IPO Hard|[Scala](sol-module/src/No502.scala)|[Report](TO DO)|
@@ -145,6 +162,7 @@
 |463|Can I Win Medium|[Scala](sol-module/src/No463.scala)|[Report](TO DO)|
 |461|Minimum Moves to Equal Array Elements II Medium|[Scala](sol-module/src/No461.scala)|[Report](TO DO)|
 |455|Assign Cookies Easy|[Scala](sol-module/src/No455.scala)|[Report](TO DO)|
+|451|Sort Characters By Frequency 55.0%Medium|[Scala](sol-module/src/No451.scala)|[Report](TO DO)|
 |446|Arithmetic Slices II - Subsequence Hard|[Scala](sol-module/src/No446.scala)|[Report](TO DO)|
 |438|Find All Anagrams in a String Easy|[Scala](sol-module/src/No438.scala)|[Report](TO DO)|
 |437|Path Sum III 42.0%Easy|[Scala](sol-module/src/No437.scala)|[Report](TO DO)|
@@ -164,6 +182,7 @@
 |330|Patching Array Hard|[Scala](sol-module/src/No330.scala)|[Report](TO DO)|
 |329|Longest Increasing Path in a Matrix Hard|[Scala](sol-module/src/No329.scala)|[Report](TO DO)|
 |326|Power of Three Easy|[Scala](sol-module/src/No326.scala)|[Report](TO DO)|
+|319|Bulb Switcher Medium|[Scala](sol-module/src/No319.scala)|[Report](TO DO)|
 |316|Remove Duplicate Letters Hard|[Scala](sol-module/src/No316.scala)|[Report](TO DO)|
 |312|Burst Balloons Hard|[Scala](sol-module/src/No312.scala)|[Report](report/ReportNo312.md)|
 |303|Range Sum Query - Immutable Easy|[Scala](sol-module/src/No303.scala)|[Report](TO DO)|
