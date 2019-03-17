@@ -2,10 +2,10 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
-|1015|Numbers With|[Scala](sol-module/src/No1015.scala)|[Report](TO DO)|
+|1015|Numbers With One Repeated Digit|[Scala](sol-module/src/No1015.scala)|[Report](TO DO)|
 |1014|Capacity To Ship Packages Within D Days|[Scala](sol-module/src/No1014.scala)|[Report](TO DO)|
-|1013|Integer|[Scala](sol-module/src/No1013.scala)|[Report](TO DO)|
-|1012||[Scala](sol-module/src/No1012.scala)|[Report](TO DO)|
+|1013|Pairs of Songs With Total Durations Divisible by Sixty|[Scala](sol-module/src/No1013.scala)|[Report](TO DO)|
+|1012|Complement of Base Ten Integer|[Scala](sol-module/src/No1012.scala)|[Report](TO DO)|
 |1008|Construct Binary Search Tree from Preorder Traversal|[Scala](sol-module/src/No1008.scala)|[Report](TO DO)|
 |1007|Minimum Domino Rotations For Equal Row|[Scala](sol-module/src/No1007.scala)|[Report](TO DO)|
 |1006|Clumsy Factorial|[Scala](sol-module/src/No1006.scala)|[Report](TO DO)|
