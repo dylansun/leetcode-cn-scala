@@ -55,5 +55,5 @@ object No954 {
       -- ArrayBuffer.fill(na)(b))
     else false
 
-  }v
+  }
 }
