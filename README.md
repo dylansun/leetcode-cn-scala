@@ -306,12 +306,12 @@
 |17|Letter Combinations of a Phone Number 40.4%Medium|[Scala](sol-module/src/No17.scala)|[Report](TO DO)|
 |14|Longest Common Prefix 33.0%Easy|[Scala](sol-module/src/No14.scala)|[Report](TO DO)|
 |13|Roman to Integer Easy|[Scala](sol-module/src/No13.scala)|[Report](TO DO)|
-|11|Container With Most Water Medium|[Scala](sol-module/src/No11.scala)|[Report](TO DO)|
+|11|Container With Most Water|[Scala](sol-module/src/No11.scala)|[Report](TO DO)|
 |9|Hard|[Scala](sol-module/src/No9.scala)|[Report](TO DO)|
-|7|Reverse Integer Easy|[Scala](sol-module/src/No7.scala)|[Report](TO DO)|
-|6|ZigZag Conversion 30.7%Medium|[Scala](sol-module/src/No6.scala)|[Report](TO DO)|
+|7|Reverse Integer|[Scala](sol-module/src/No7.scala)|[Report](TO DO)|
+|6|ZigZag Conversion|[Scala](sol-module/src/No6.scala)|[Report](TO DO)|
 |5|Students Easy|[Scala](sol-module/src/No5.scala)|[Report](TO DO)|
 |4|Find Duplicate Subtrees Medium|[Scala](sol-module/src/No4.scala)|[Report](TO DO)|
 |3|Maximum Sum of|[Scala](sol-module/src/No3.scala)|[Report](TO DO)|
 |2|Keys Keyboard Medium|[Scala](sol-module/src/No2.scala)|[Report](TO DO)|
-|1|Two Sum 42.0%Easy|[Scala](sol-module/src/No1.scala)|[Report](TO DO)|
+|1|Two Sum|[Scala](sol-module/src/No1.scala)|[Report](TO DO)|
