@@ -56,8 +56,16 @@
 |957|Prison Cells After N Days Medium|[Scala](sol-module/src/No957.scala)|[Report](TO DO)|
 |956|Tallest Billboard Hard|[Scala](sol-module/src/No956.scala)|[Report](TO DO)|
 |955|Delete Columns to Make Sorted II Medium|[Scala](sol-module/src/No955.scala)|[Report](report/ReportNo955.md)|
+|954|Array of Doubled Pairs Medium|[Scala](sol-module/src/No954.scala)|[Report](TO DO)|
 |953|Verifying an Alien Dictionary Easy|[Scala](sol-module/src/No953.scala)|[Report](TO DO)|
+|952|Largest Component Size by Common Factor Hard|[Scala](sol-module/src/No952.scala)|[Report](TO DO)|
+|951|Flip Equivalent Binary Trees Medium|[Scala](sol-module/src/No951.scala)|[Report](TO DO)|
+|950|Reveal Cards In Increasing Order Medium|[Scala](sol-module/src/No950.scala)|[Report](TO DO)|
 |949|Largest Time for Given Digits Easy|[Scala](sol-module/src/No949.scala)|[Report](TO DO)|
+|948|Bag of Tokens Medium|[Scala](sol-module/src/No948.scala)|[Report](TO DO)|
+|947|Most Stones Removed with Same Row or Column Medium|[Scala](sol-module/src/No947.scala)|[Report](TO DO)|
+|946|Validate Stack Sequences Medium|[Scala](sol-module/src/No946.scala)|[Report](TO DO)|
+|945|Minimum Increment to Make Array Unique Medium|[Scala](sol-module/src/No945.scala)|[Report](TO DO)|
 |944|Delete Columns to Make Sorted Easy|[Scala](sol-module/src/No944.scala)|[Report](TO DO)|
 |942|DI String Match Easy|[Scala](sol-module/src/No942.scala)|[Report](TO DO)|
 |941|Valid Mountain Array Easy|[Scala](sol-module/src/No941.scala)|[Report](TO DO)|
