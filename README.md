@@ -2,6 +2,10 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
+|1023|Binary String With Substrings Representing|[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
+|1022|Smallest Integer Divisible by K|[Scala](sol-module/src/No1022.scala)|[Report](TO DO)|
+|1021|Best Sightseeing Pair|[Scala](sol-module/src/No1021.scala)|[Report](TO DO)|
+|1020|Partition Array Into Three Parts With Equal Sum|[Scala](sol-module/src/No1020.scala)|[Report](TO DO)|
 |1015|Numbers With One Repeated Digit|[Scala](sol-module/src/No1015.scala)|[Report](TO DO)|
 |1014|Capacity To Ship Packages Within D Days|[Scala](sol-module/src/No1014.scala)|[Report](TO DO)|
 |1013|Pairs of Songs With Total Durations Divisible by Sixty|[Scala](sol-module/src/No1013.scala)|[Report](TO DO)|
@@ -67,8 +71,10 @@
 |946|Validate Stack Sequences Medium|[Scala](sol-module/src/No946.scala)|[Report](TO DO)|
 |945|Minimum Increment to Make Array Unique Medium|[Scala](sol-module/src/No945.scala)|[Report](TO DO)|
 |944|Delete Columns to Make Sorted Easy|[Scala](sol-module/src/No944.scala)|[Report](TO DO)|
+|943|Find the Shortest Superstring Hard|[Scala](sol-module/src/No943.scala)|[Report](TO DO)|
 |942|DI String Match Easy|[Scala](sol-module/src/No942.scala)|[Report](TO DO)|
 |941|Valid Mountain Array Easy|[Scala](sol-module/src/No941.scala)|[Report](TO DO)|
+|940|Distinct Subsequences II Hard|[Scala](sol-module/src/No940.scala)|[Report](TO DO)|
 |937|Reorder Log Files Easy|[Scala](sol-module/src/No937.scala)|[Report](TO DO)|
 |936|Stamping The Sequence Hard|[Scala](sol-module/src/No936.scala)|[Report](TO DO)|
 |935|Knight Dialer Medium|[Scala](sol-module/src/No935.scala)|[Report](TO DO)|
@@ -81,6 +87,7 @@
 |917|Reverse Only Letters Easy|[Scala](sol-module/src/No917.scala)|[Report](TO DO)|
 |914|X of a Kind in a Deck of Cards Easy|[Scala](sol-module/src/No914.scala)|[Report](TO DO)|
 |905|Sort Array By Parity Easy|[Scala](sol-module/src/No905.scala)|[Report](TO DO)|
+|902|Numbers At Most N Given Digit Set Hard|[Scala](sol-module/src/No902.scala)|[Report](TO DO)|
 |898|Bitwise ORs of Subarrays Medium|[Scala](sol-module/src/No898.scala)|[Report](TO DO)|
 |897|Increasing Order Search Tree Easy|[Scala](sol-module/src/No897.scala)|[Report](TO DO)|
 |896|Monotonic Array Easy|[Scala](sol-module/src/No896.scala)|[Report](TO DO)|
@@ -88,6 +95,7 @@
 |886|Possible Bipartition Medium|[Scala](sol-module/src/No886.scala)|[Report](TO DO)|
 |884|Uncommon Words from Two Sentences Easy|[Scala](sol-module/src/No884.scala)|[Report](TO DO)|
 |882|Reachable Nodes In Subdivided Graph Hard|[Scala](sol-module/src/No882.scala)|[Report](TO DO)|
+|878|Nth Magical Number Hard|[Scala](sol-module/src/No878.scala)|[Report](TO DO)|
 |877|Stone Game Medium|[Scala](sol-module/src/No877.scala)|[Report](TO DO)|
 |876|Middle of the Linked List Easy|[Scala](sol-module/src/No876.scala)|[Report](TO DO)|
 |875|Koko Eating Bananas Medium|[Scala](sol-module/src/No875.scala)|[Report](TO DO)|
@@ -201,6 +209,7 @@
 |268|Missing Number Easy|[Scala](sol-module/src/No268.scala)|[Report](TO DO)|
 |242|Valid Anagram 51.0%Easy|[Scala](sol-module/src/No242.scala)|[Report](TO DO)|
 |240|Search a 2D Matrix II 40.3%Medium|[Scala](sol-module/src/No240.scala)|[Report](TO DO)|
+|233|Number of Digit One Hard|[Scala](sol-module/src/No233.scala)|[Report](TO DO)|
 |232|Implement Queue using Stacks Easy|[Scala](sol-module/src/No232.scala)|[Report](TO DO)|
 |231|Power of Two Easy|[Scala](sol-module/src/No231.scala)|[Report](TO DO)|
 |229|Majority Element II Medium|[Scala](sol-module/src/No229.scala)|[Report](TO DO)|
@@ -261,7 +270,9 @@
 |81|Search in Rotated Sorted Array II Medium|[Scala](sol-module/src/No81.scala)|[Report](TO DO)|
 |79|Word Search 30.4%Medium|[Scala](sol-module/src/No79.scala)|[Report](TO DO)|
 |78|Subsets 51.0%Medium|[Scala](sol-module/src/No78.scala)|[Report](TO DO)|
+|76|Minimum Window Substring Hard|[Scala](sol-module/src/No76.scala)|[Report](TO DO)|
 |74|Search a 2D Matrix Medium|[Scala](sol-module/src/No74.scala)|[Report](TO DO)|
+|72|Edit Distance Hard|[Scala](sol-module/src/No72.scala)|[Report](TO DO)|
 |68|Text Justification Hard|[Scala](sol-module/src/No68.scala)|[Report](TO DO)|
 |67|Add Binary 38.0%Easy|[Scala](sol-module/src/No67.scala)|[Report](TO DO)|
 |66|Plus One 40.7%Easy|[Scala](sol-module/src/No66.scala)|[Report](TO DO)|
@@ -282,6 +293,7 @@
 |49|Group Anagrams Medium|[Scala](sol-module/src/No49.scala)|[Report](TO DO)|
 |48|Rotate Image Medium|[Scala](sol-module/src/No48.scala)|[Report](TO DO)|
 |45|Jump Game II Hard|[Scala](sol-module/src/No45.scala)|[Report](TO DO)|
+|42|Trapping Rain Water Hard|[Scala](sol-module/src/No42.scala)|[Report](TO DO)|
 |41|First Missing Positive Hard|[Scala](sol-module/src/No41.scala)|[Report](TO DO)|
 |40|Combination Sum II 40.2%Medium|[Scala](sol-module/src/No40.scala)|[Report](TO DO)|
 |39|Combination Sum Medium|[Scala](sol-module/src/No39.scala)|[Report](TO DO)|
