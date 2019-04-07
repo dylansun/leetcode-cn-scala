@@ -2,14 +2,16 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
-|1023|Binary String With Substrings Representing|[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
-|1022|Smallest Integer Divisible by K|[Scala](sol-module/src/No1022.scala)|[Report](TO DO)|
-|1021|Best Sightseeing Pair|[Scala](sol-module/src/No1021.scala)|[Report](TO DO)|
-|1020|Partition Array Into Three Parts With Equal Sum|[Scala](sol-module/src/No1020.scala)|[Report](TO DO)|
-|1015|Numbers With One Repeated Digit|[Scala](sol-module/src/No1015.scala)|[Report](TO DO)|
-|1014|Capacity To Ship Packages Within D Days|[Scala](sol-module/src/No1014.scala)|[Report](TO DO)|
-|1013|Pairs of Songs With Total Durations Divisible by Sixty|[Scala](sol-module/src/No1013.scala)|[Report](TO DO)|
+|10000||[Scala](sol-module/src/No10000.scala)|[Report](TO DO)|
+|1023||[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
+|1022||[Scala](sol-module/src/No1022.scala)|[Report](TO DO)|
+|1021||[Scala](sol-module/src/No1021.scala)|[Report](TO DO)|
+|1019||[Scala](sol-module/src/No1019.scala)|[Report](TO DO)|
+|1015|Smallest Integer Divisible by K|[Scala](sol-module/src/No1015.scala)|[Report](TO DO)|
+|1014|Best Sightseeing Pair|[Scala](sol-module/src/No1014.scala)|[Report](TO DO)|
+|1013|Partition Array Into Three Parts With Equal Sum|[Scala](sol-module/src/No1013.scala)|[Report](TO DO)|
 |1012|Complement of Base Ten Integer|[Scala](sol-module/src/No1012.scala)|[Report](TO DO)|
+|1010|Pairs of Songs With Total Durations Divisible by Sixty|[Scala](sol-module/src/No1010.scala)|[Report](TO DO)|
 |1008|Construct Binary Search Tree from Preorder Traversal|[Scala](sol-module/src/No1008.scala)|[Report](TO DO)|
 |1007|Minimum Domino Rotations For Equal Row|[Scala](sol-module/src/No1007.scala)|[Report](TO DO)|
 |1006|Clumsy Factorial|[Scala](sol-module/src/No1006.scala)|[Report](TO DO)|
@@ -81,17 +83,24 @@
 |933|Number of Recent Calls Easy|[Scala](sol-module/src/No933.scala)|[Report](TO DO)|
 |932|Beautiful Array Medium|[Scala](sol-module/src/No932.scala)|[Report](TO DO)|
 |931|Minimum Falling Path Sum Medium|[Scala](sol-module/src/No931.scala)|[Report](TO DO)|
+|930|Binary Subarrays With Sum Medium|[Scala](sol-module/src/No930.scala)|[Report](TO DO)|
 |929|Unique Email Addresses Easy|[Scala](sol-module/src/No929.scala)|[Report](TO DO)|
 |925|Long Pressed Name Easy|[Scala](sol-module/src/No925.scala)|[Report](TO DO)|
 |922|Sort Array By Parity II Easy|[Scala](sol-module/src/No922.scala)|[Report](TO DO)|
 |917|Reverse Only Letters Easy|[Scala](sol-module/src/No917.scala)|[Report](TO DO)|
+|916|Word Subsets Medium|[Scala](sol-module/src/No916.scala)|[Report](TO DO)|
+|915|Partition Array into Disjoint Intervals Medium|[Scala](sol-module/src/No915.scala)|[Report](TO DO)|
 |914|X of a Kind in a Deck of Cards Easy|[Scala](sol-module/src/No914.scala)|[Report](TO DO)|
+|906|Super Palindromes Hard|[Scala](sol-module/src/No906.scala)|[Report](TO DO)|
 |905|Sort Array By Parity Easy|[Scala](sol-module/src/No905.scala)|[Report](TO DO)|
+|903|Valid Permutations for DI Sequence Hard|[Scala](sol-module/src/No903.scala)|[Report](TO DO)|
 |902|Numbers At Most N Given Digit Set Hard|[Scala](sol-module/src/No902.scala)|[Report](TO DO)|
 |898|Bitwise ORs of Subarrays Medium|[Scala](sol-module/src/No898.scala)|[Report](TO DO)|
 |897|Increasing Order Search Tree Easy|[Scala](sol-module/src/No897.scala)|[Report](TO DO)|
 |896|Monotonic Array Easy|[Scala](sol-module/src/No896.scala)|[Report](TO DO)|
 |893|Groups of Special-Equivalent Strings Easy|[Scala](sol-module/src/No893.scala)|[Report](TO DO)|
+|891|Sum of Subsequence Widths Hard|[Scala](sol-module/src/No891.scala)|[Report](TO DO)|
+|887|Super Egg Drop Hard|[Scala](sol-module/src/No887.scala)|[Report](TO DO)|
 |886|Possible Bipartition Medium|[Scala](sol-module/src/No886.scala)|[Report](TO DO)|
 |884|Uncommon Words from Two Sentences Easy|[Scala](sol-module/src/No884.scala)|[Report](TO DO)|
 |882|Reachable Nodes In Subdivided Graph Hard|[Scala](sol-module/src/No882.scala)|[Report](TO DO)|
@@ -108,6 +117,7 @@
 |862|Shortest Subarray with Sum at Least K Hard|[Scala](sol-module/src/No862.scala)|[Report](TO DO)|
 |860|Lemonade Change Easy|[Scala](sol-module/src/No860.scala)|[Report](TO DO)|
 |859|Buddy Strings Easy|[Scala](sol-module/src/No859.scala)|[Report](TO DO)|
+|855|Exam Room Medium|[Scala](sol-module/src/No855.scala)|[Report](TO DO)|
 |851|Loud and Rich Medium|[Scala](sol-module/src/No851.scala)|[Report](TO DO)|
 |849|Maximize Distance to Closest Person 40.4%Easy|[Scala](sol-module/src/No849.scala)|[Report](TO DO)|
 |844|Backspace String Compare Easy|[Scala](sol-module/src/No844.scala)|[Report](TO DO)|
@@ -115,6 +125,7 @@
 |836|Rectangle Overlap Easy|[Scala](sol-module/src/No836.scala)|[Report](TO DO)|
 |832|Flipping an Image Easy|[Scala](sol-module/src/No832.scala)|[Report](TO DO)|
 |830|Positions of Large Groups Easy|[Scala](sol-module/src/No830.scala)|[Report](TO DO)|
+|825|Friends Of Appropriate Ages Medium|[Scala](sol-module/src/No825.scala)|[Report](TO DO)|
 |824|Goat Latin Easy|[Scala](sol-module/src/No824.scala)|[Report](TO DO)|
 |821|Shortest Distance to a Character Easy|[Scala](sol-module/src/No821.scala)|[Report](TO DO)|
 |819|Most Common Word Easy|[Scala](sol-module/src/No819.scala)|[Report](TO DO)|
@@ -217,6 +228,7 @@
 |226|Invert Binary Tree 57.0%Easy|[Scala](sol-module/src/No226.scala)|[Report](TO DO)|
 |221|Maximal Square Medium|[Scala](sol-module/src/No221.scala)|[Report](TO DO)|
 |219|Contains Duplicate II Easy|[Scala](sol-module/src/No219.scala)|[Report](TO DO)|
+|215|Kth Largest Element in an Array 46.0%Medium|[Scala](sol-module/src/No215.scala)|[Report](TO DO)|
 |211|Add and Search Word - Data structure design Medium|[Scala](sol-module/src/No211.scala)|[Report](TO DO)|
 |209|Minimum Size Subarray Sum Medium|[Scala](sol-module/src/No209.scala)|[Report](TO DO)|
 |208|Implement Trie (Prefix Tree) Medium|[Scala](sol-module/src/No208.scala)|[Report](TO DO)|
@@ -315,11 +327,15 @@
 |21|Game 30.0%Medium|[Scala](sol-module/src/No21.scala)|[Report](TO DO)|
 |20|Valid Parentheses Easy|[Scala](sol-module/src/No20.scala)|[Report](TO DO)|
 |19|Remove Nth Node From End of List 34.0%Medium|[Scala](sol-module/src/No19.scala)|[Report](TO DO)|
+|18|4Sum Medium|[Scala](sol-module/src/No18.scala)|[Report](TO DO)|
 |17|Letter Combinations of a Phone Number 40.4%Medium|[Scala](sol-module/src/No17.scala)|[Report](TO DO)|
+|16|3Sum Closest 40.8%Medium|[Scala](sol-module/src/No16.scala)|[Report](TO DO)|
 |14|Longest Common Prefix 33.0%Easy|[Scala](sol-module/src/No14.scala)|[Report](TO DO)|
 |13|Roman to Integer Easy|[Scala](sol-module/src/No13.scala)|[Report](TO DO)|
+|12|Integer to Roman|[Scala](sol-module/src/No12.scala)|[Report](TO DO)|
 |11|Container With Most Water|[Scala](sol-module/src/No11.scala)|[Report](TO DO)|
 |9|Hard|[Scala](sol-module/src/No9.scala)|[Report](TO DO)|
+|8|String to Integer (atoi)|[Scala](sol-module/src/No8.scala)|[Report](TO DO)|
 |7|Reverse Integer|[Scala](sol-module/src/No7.scala)|[Report](TO DO)|
 |6|ZigZag Conversion|[Scala](sol-module/src/No6.scala)|[Report](TO DO)|
 |5|Students Easy|[Scala](sol-module/src/No5.scala)|[Report](TO DO)|

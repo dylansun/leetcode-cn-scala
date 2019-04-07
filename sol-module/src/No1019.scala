@@ -12,7 +12,7 @@ object No1019 {
     //solver(List[Layer]())(getNums(head, Nil), Nil).toArray
     var p = head
     var s = List[Int]()
-    while(p!=null) {s ::= p._x, p = p.next}
+    while(p!=null) {s ::= p._x; p = p.next}
     g(s.reverse)
   }
 
