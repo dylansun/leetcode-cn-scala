@@ -2,7 +2,7 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
-|10000||[Scala](sol-module/src/No10000.scala)|[Report](TO DO)|
+|10000|Weekly Contest _1_3_1_|[Scala](sol-module/src/No10000.scala)|[Report](TO DO)|
 |1023||[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
 |1022||[Scala](sol-module/src/No1022.scala)|[Report](TO DO)|
 |1021||[Scala](sol-module/src/No1021.scala)|[Report](TO DO)|
