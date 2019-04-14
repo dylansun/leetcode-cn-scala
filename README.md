@@ -2,6 +2,7 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
+|10001|Weekly Contest _1_3_2_|[Scala](sol-module/src/No10001.scala)|[Report](TO DO)|
 |10000|Weekly Contest _1_3_1_|[Scala](sol-module/src/No10000.scala)|[Report](TO DO)|
 |1023||[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
 |1022||[Scala](sol-module/src/No1022.scala)|[Report](TO DO)|
@@ -91,15 +92,20 @@
 |916|Word Subsets Medium|[Scala](sol-module/src/No916.scala)|[Report](TO DO)|
 |915|Partition Array into Disjoint Intervals Medium|[Scala](sol-module/src/No915.scala)|[Report](TO DO)|
 |914|X of a Kind in a Deck of Cards Easy|[Scala](sol-module/src/No914.scala)|[Report](TO DO)|
+|907|Sum of Subarray Minimums Medium|[Scala](sol-module/src/No907.scala)|[Report](TO DO)|
 |906|Super Palindromes Hard|[Scala](sol-module/src/No906.scala)|[Report](TO DO)|
 |905|Sort Array By Parity Easy|[Scala](sol-module/src/No905.scala)|[Report](TO DO)|
 |903|Valid Permutations for DI Sequence Hard|[Scala](sol-module/src/No903.scala)|[Report](TO DO)|
 |902|Numbers At Most N Given Digit Set Hard|[Scala](sol-module/src/No902.scala)|[Report](TO DO)|
+|900|RLE Iterator Medium|[Scala](sol-module/src/No900.scala)|[Report](TO DO)|
+|899|Orderly Queue Hard|[Scala](sol-module/src/No899.scala)|[Report](TO DO)|
 |898|Bitwise ORs of Subarrays Medium|[Scala](sol-module/src/No898.scala)|[Report](TO DO)|
 |897|Increasing Order Search Tree Easy|[Scala](sol-module/src/No897.scala)|[Report](TO DO)|
 |896|Monotonic Array Easy|[Scala](sol-module/src/No896.scala)|[Report](TO DO)|
+|895|Maximum Frequency Stack Hard|[Scala](sol-module/src/No895.scala)|[Report](TO DO)|
 |893|Groups of Special-Equivalent Strings Easy|[Scala](sol-module/src/No893.scala)|[Report](TO DO)|
 |891|Sum of Subsequence Widths Hard|[Scala](sol-module/src/No891.scala)|[Report](TO DO)|
+|890|Find and Replace Pattern Medium|[Scala](sol-module/src/No890.scala)|[Report](TO DO)|
 |887|Super Egg Drop Hard|[Scala](sol-module/src/No887.scala)|[Report](TO DO)|
 |886|Possible Bipartition Medium|[Scala](sol-module/src/No886.scala)|[Report](TO DO)|
 |884|Uncommon Words from Two Sentences Easy|[Scala](sol-module/src/No884.scala)|[Report](TO DO)|
