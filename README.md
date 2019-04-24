@@ -2,6 +2,7 @@
 -------------------------------
 | # | Title | code | report| 
 |---| :-----: | :--------: | :----------: |
+|10002|Weekly Contest _1_3_3_|[Scala](sol-module/src/No10002.scala)|[Report](TO DO)|
 |10001|Weekly Contest _1_3_2_|[Scala](sol-module/src/No10001.scala)|[Report](TO DO)|
 |10000|Weekly Contest _1_3_1_|[Scala](sol-module/src/No10000.scala)|[Report](TO DO)|
 |1023||[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
@@ -128,6 +129,8 @@
 |849|Maximize Distance to Closest Person 40.4%Easy|[Scala](sol-module/src/No849.scala)|[Report](TO DO)|
 |844|Backspace String Compare Easy|[Scala](sol-module/src/No844.scala)|[Report](TO DO)|
 |840|Magic Squares In Grid Easy|[Scala](sol-module/src/No840.scala)|[Report](TO DO)|
+|838|Push Dominoes Medium|[Scala](sol-module/src/No838.scala)|[Report](TO DO)|
+|837|New|[Scala](sol-module/src/No837.scala)|[Report](TO DO)|
 |836|Rectangle Overlap Easy|[Scala](sol-module/src/No836.scala)|[Report](TO DO)|
 |832|Flipping an Image Easy|[Scala](sol-module/src/No832.scala)|[Report](TO DO)|
 |830|Positions of Large Groups Easy|[Scala](sol-module/src/No830.scala)|[Report](TO DO)|
@@ -159,6 +162,7 @@
 |721|Accounts Merge Medium|[Scala](sol-module/src/No721.scala)|[Report](TO DO)|
 |720|Longest Word in Dictionary Easy|[Scala](sol-module/src/No720.scala)|[Report](TO DO)|
 |717|1-bit and 2-bit Characters Easy|[Scala](sol-module/src/No717.scala)|[Report](TO DO)|
+|713|Subarray Product Less Than K Medium|[Scala](sol-module/src/No713.scala)|[Report](TO DO)|
 |710|Random Pick with Blacklist 30.6%Hard|[Scala](sol-module/src/No710.scala)|[Report](TO DO)|
 |707|Design Linked List Easy|[Scala](sol-module/src/No707.scala)|[Report](TO DO)|
 |706|Design HashMap Easy|[Scala](sol-module/src/No706.scala)|[Report](TO DO)|
@@ -256,6 +260,7 @@
 |147|Insertion Sort List Medium|[Scala](sol-module/src/No147.scala)|[Report](TO DO)|
 |145|Binary Tree Postorder Traversal Hard|[Scala](sol-module/src/No145.scala)|[Report](TO DO)|
 |144|Binary Tree Preorder Traversal 50.3%Medium|[Scala](sol-module/src/No144.scala)|[Report](TO DO)|
+|140|Word Break II Hard|[Scala](sol-module/src/No140.scala)|[Report](TO DO)|
 |136|Single Number 59.0%Easy|[Scala](sol-module/src/No136.scala)|[Report](TO DO)|
 |135|Candy Hard|[Scala](sol-module/src/No135.scala)|[Report](TO DO)|
 |134|Gas Station Medium|[Scala](sol-module/src/No134.scala)|[Report](TO DO)|
