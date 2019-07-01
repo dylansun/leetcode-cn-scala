@@ -11,4 +11,24 @@ object No960 {
           dp(i) = dp(i) max  (dp(j) + 1)
     return A(0).length - dp.max
   }
+
+
+  object Solution {
+    def maxIncreaseKeepingSkyline(grid: Array[Array[Int]]): Int = {
+      val A = grid map (_.max) // row
+      val B = grid(0).indices.toArray.map(j => grid.indices.map(i => grid(i)(j)).max)
+      val d = {
+        for{
+          i <- grid.indices
+          j <- grid(i).indices
+        } yield (A(i) min B(j)) - grid(i)(j)
+      }
+      d.sum
+    }
+  }
+
+  def main(args: Array[String]): Unit = {
+    val grid = Array(Array(1,1))
+    println(Solution.maxIncreaseKeepingSkyline(grid))
+  }
 }

@@ -29,7 +29,7 @@ object Trie{
     words.foreach(word => trie.insert(word))
     println(trie.find("dbaefg"))
     println(trie.find(""))
-    println(trie.fin("dba"))
+    println(trie.find("dba"))
   }
 }
 
