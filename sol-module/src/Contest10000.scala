@@ -1,7 +1,7 @@
 /**
   * Created by lilisun on 4/7/19.
   */
-object No10000 {
+object Contest10000{
   var i = 0
   def removeOuterParentheses(S: String): String = {
     f(S.toList)(S.toList, Nil,Nil) mkString

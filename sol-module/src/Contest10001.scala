@@ -1,7 +1,7 @@
 /**
   * Created by lilisun on 4/14/19.
   */
-object No10001 {
+object Contest10001 {
 
   /**
     * 除数博弈

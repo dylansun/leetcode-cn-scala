@@ -1,7 +1,7 @@
 /**
-  * Created by lilisun on 5/5/19.
+  * Created by lilisun on 8/21/19.
   */
-object No10005 {
+object findUnSolved {
 
   def main(args: Array[String]): Unit = {
 

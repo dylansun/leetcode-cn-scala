@@ -1,7 +1,7 @@
 /**
   * Created by lilisun on 4/28/19.
   */
-object No10003 {
+object Contest10003{
   def numMovesStones(a: Int, b: Int, c: Int): Array[Int] = {
     val l = Array(a,b,c).sorted
     val la = l(1) - l(0) -1

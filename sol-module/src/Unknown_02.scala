@@ -1,7 +1,7 @@
 /**
   * Created by lilisun on 5/12/19.
   */
-object No5055 {
+object Unknown_02 {
   object Solution {
     case class Point(x:Int, y:Int){
       def +(that:Point):Point = Point(x + that.x, y + that.y)

@@ -1,7 +1,7 @@
 /**
   * Created by lilisun on 4/21/19.
   */
-object No10002 {
+object Contest10002 {
   class StreamChecker(_words: Array[String]) {
     class Trie(){
       val next = Array.ofDim[Trie](26)

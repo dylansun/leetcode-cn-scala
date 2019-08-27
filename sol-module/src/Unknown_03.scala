@@ -3,7 +3,7 @@
   */
 import scala.collection.mutable
 
-object No5058 {
+object Unknown_03 {
   object hashMapSolution{
     def longestDupSubstring(S: String): String = {
       val mem = mutable.Map.empty[String , List[Int]]
