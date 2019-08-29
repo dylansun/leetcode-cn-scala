@@ -29,9 +29,17 @@
 |1062|Longest Repeating Substring|[Scala](sol-module/src/No1062.scala)|[Report](TO DO)|
 |1061|Lexicographically Smallest Equivalent String|[Scala](sol-module/src/No1061.scala)|[Report](TO DO)|
 |1060|Missing Element in Sorted Array|[Scala](sol-module/src/No1060.scala)|[Report](TO DO)|
+|1054|Distant Barcodes|[Scala](sol-module/src/No1054.scala)|[Report](TO DO)|
+|1053|Previous Permutation With One Swap|[Scala](sol-module/src/No1053.scala)|[Report](TO DO)|
+|1052|Grumpy Bookstore Owner|[Scala](sol-module/src/No1052.scala)|[Report](TO DO)|
+|1051|Height Checker|[Scala](sol-module/src/No1051.scala)|[Report](TO DO)|
 |1049|Last Stone Weight II|[Scala](sol-module/src/No1049.scala)|[Report](TO DO)|
 |1048|Longest String Chain|[Scala](sol-module/src/No1048.scala)|[Report](TO DO)|
+|1047|Remove All Adjacent Duplicates In String|[Scala](sol-module/src/No1047.scala)|[Report](TO DO)|
+|1046|Last Stone Weight|[Scala](sol-module/src/No1046.scala)|[Report](TO DO)|
 |1044|Longest Duplicate Substring|[Scala](sol-module/src/No1044.scala)|[Report](TO DO)|
+|1043|Partition Array for Maximum Sum|[Scala](sol-module/src/No1043.scala)|[Report](TO DO)|
+|1042|Flower Planting With No Adjacent|[Scala](sol-module/src/No1042.scala)|[Report](TO DO)|
 |1023|Camelcase Matching|[Scala](sol-module/src/No1023.scala)|[Report](TO DO)|
 |1022|Sum of Root To Leaf Binary Numbers|[Scala](sol-module/src/No1022.scala)|[Report](TO DO)|
 |1021|Remove Outermost Parentheses|[Scala](sol-module/src/No1021.scala)|[Report](TO DO)|
@@ -266,11 +274,14 @@
 |402|Remove K Digits|[Scala](sol-module/src/No402.scala)|[Report](TO DO)|
 |400|Nth Digit|[Scala](sol-module/src/No400.scala)|[Report](TO DO)|
 |398|Random Pick Index|[Scala](sol-module/src/No398.scala)|[Report](TO DO)|
+|396|Rotate Function|[Scala](sol-module/src/No396.scala)|[Report](TO DO)|
 |392|Is Subsequence|[Scala](sol-module/src/No392.scala)|[Report](TO DO)|
 |391|Perfect Rectangle|[Scala](sol-module/src/No391.scala)|[Report](TO DO)|
 |389|Find the Difference|[Scala](sol-module/src/No389.scala)|[Report](TO DO)|
+|388|Longest Absolute File Path|[Scala](sol-module/src/No388.scala)|[Report](TO DO)|
 |382|Linked List Random Node|[Scala](sol-module/src/No382.scala)|[Report](TO DO)|
 |376|Wiggle Subsequence|[Scala](sol-module/src/No376.scala)|[Report](TO DO)|
+|373|Find K Pairs with Smallest Sums|[Scala](sol-module/src/No373.scala)|[Report](TO DO)|
 |371|Sum of Two Integers|[Scala](sol-module/src/No371.scala)|[Report](TO DO)|
 |350|Intersection of Two Arrays II|[Scala](sol-module/src/No350.scala)|[Report](TO DO)|
 |342|Power of Four|[Scala](sol-module/src/No342.scala)|[Report](TO DO)|
