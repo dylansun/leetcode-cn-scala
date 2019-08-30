@@ -231,16 +231,21 @@
 |682|Baseball Game|[Scala](sol-module/src/No682.scala)|[Report](TO DO)|
 |669|Trim a Binary Search Tree|[Scala](sol-module/src/No669.scala)|[Report](TO DO)|
 |665|Non-decreasing Array|[Scala](sol-module/src/No665.scala)|[Report](TO DO)|
+|662|Maximum Width of Binary Tree|[Scala](sol-module/src/No662.scala)|[Report](TO DO)|
+|658|Find K Closest Elements|[Scala](sol-module/src/No658.scala)|[Report](TO DO)|
 |654|Maximum Binary Tree|[Scala](sol-module/src/No654.scala)|[Report](TO DO)|
+|648|Replace Words|[Scala](sol-module/src/No648.scala)|[Report](TO DO)|
 |639|Decode Ways II|[Scala](sol-module/src/No639.scala)|[Report](TO DO)|
 |638|Shopping Offers|[Scala](sol-module/src/No638.scala)|[Report](TO DO)|
 |637|Average of Levels in Binary Tree|[Scala](sol-module/src/No637.scala)|[Report](TO DO)|
 |604|Design Compressed String Iterator|[Scala](sol-module/src/No604.scala)|[Report](TO DO)|
+|583|Delete Operation for Two Strings|[Scala](sol-module/src/No583.scala)|[Report](TO DO)|
 |576|Out of Boundary Paths|[Scala](sol-module/src/No576.scala)|[Report](TO DO)|
 |572|Subtree of Another Tree|[Scala](sol-module/src/No572.scala)|[Report](TO DO)|
 |566|Reshape the Matrix|[Scala](sol-module/src/No566.scala)|[Report](TO DO)|
 |563|Binary Tree Tilt|[Scala](sol-module/src/No563.scala)|[Report](TO DO)|
 |561|Array Partition I|[Scala](sol-module/src/No561.scala)|[Report](TO DO)|
+|553|Optimal Division|[Scala](sol-module/src/No553.scala)|[Report](TO DO)|
 |547|Friend Circles|[Scala](sol-module/src/No547.scala)|[Report](TO DO)|
 |543|Diameter of Binary Tree|[Scala](sol-module/src/No543.scala)|[Report](TO DO)|
 |537|Complex Number Multiplication|[Scala](sol-module/src/No537.scala)|[Report](TO DO)|
@@ -248,6 +253,8 @@
 |530|Minimum Absolute Difference in BST|[Scala](sol-module/src/No530.scala)|[Report](TO DO)|
 |529|Minesweeper|[Scala](sol-module/src/No529.scala)|[Report](TO DO)|
 |528|Random Pick with Weight|[Scala](sol-module/src/No528.scala)|[Report](TO DO)|
+|518|Coin Change 2|[Scala](sol-module/src/No518.scala)|[Report](TO DO)|
+|516|Longest Palindromic Subsequence|[Scala](sol-module/src/No516.scala)|[Report](TO DO)|
 |515|Find Largest Value in Each Tree Row|[Scala](sol-module/src/No515.scala)|[Report](TO DO)|
 |514|Freedom Trail|[Scala](sol-module/src/No514.scala)|[Report](TO DO)|
 |504|Base 7|[Scala](sol-module/src/No504.scala)|[Report](TO DO)|
