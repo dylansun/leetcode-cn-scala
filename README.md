@@ -235,9 +235,11 @@
 |658|Find K Closest Elements|[Scala](sol-module/src/No658.scala)|[Report](TO DO)|
 |654|Maximum Binary Tree|[Scala](sol-module/src/No654.scala)|[Report](TO DO)|
 |648|Replace Words|[Scala](sol-module/src/No648.scala)|[Report](TO DO)|
+|640|Solve the Equation|[Scala](sol-module/src/No640.scala)|[Report](TO DO)|
 |639|Decode Ways II|[Scala](sol-module/src/No639.scala)|[Report](TO DO)|
 |638|Shopping Offers|[Scala](sol-module/src/No638.scala)|[Report](TO DO)|
 |637|Average of Levels in Binary Tree|[Scala](sol-module/src/No637.scala)|[Report](TO DO)|
+|609|Find Duplicate File in System|[Scala](sol-module/src/No609.scala)|[Report](TO DO)|
 |604|Design Compressed String Iterator|[Scala](sol-module/src/No604.scala)|[Report](TO DO)|
 |583|Delete Operation for Two Strings|[Scala](sol-module/src/No583.scala)|[Report](TO DO)|
 |576|Out of Boundary Paths|[Scala](sol-module/src/No576.scala)|[Report](TO DO)|
@@ -260,11 +262,13 @@
 |504|Base 7|[Scala](sol-module/src/No504.scala)|[Report](TO DO)|
 |502|IPO|[Scala](sol-module/src/No502.scala)|[Report](TO DO)|
 |500|Keyboard Row|[Scala](sol-module/src/No500.scala)|[Report](TO DO)|
+|498|Diagonal Traverse|[Scala](sol-module/src/No498.scala)|[Report](TO DO)|
 |493|Reverse Pairs|[Scala](sol-module/src/No493.scala)|[Report](TO DO)|
 |485|Max Consecutive Ones|[Scala](sol-module/src/No485.scala)|[Report](TO DO)|
 |474|Ones and Zeroes|[Scala](sol-module/src/No474.scala)|[Report](TO DO)|
 |468|Validate IP Address|[Scala](sol-module/src/No468.scala)|[Report](TO DO)|
 |463|Island Perimeter|[Scala](sol-module/src/No463.scala)|[Report](TO DO)|
+|462|Minimum Moves to Equal Array Elements II|[Scala](sol-module/src/No462.scala)|[Report](TO DO)|
 |461|Hamming Distance|[Scala](sol-module/src/No461.scala)|[Report](TO DO)|
 |455|Assign Cookies|[Scala](sol-module/src/No455.scala)|[Report](TO DO)|
 |451|Sort Characters By Frequency|[Scala](sol-module/src/No451.scala)|[Report](TO DO)|
@@ -282,6 +286,7 @@
 |400|Nth Digit|[Scala](sol-module/src/No400.scala)|[Report](TO DO)|
 |398|Random Pick Index|[Scala](sol-module/src/No398.scala)|[Report](TO DO)|
 |396|Rotate Function|[Scala](sol-module/src/No396.scala)|[Report](TO DO)|
+|393|UTF-8 Validation|[Scala](sol-module/src/No393.scala)|[Report](TO DO)|
 |392|Is Subsequence|[Scala](sol-module/src/No392.scala)|[Report](TO DO)|
 |391|Perfect Rectangle|[Scala](sol-module/src/No391.scala)|[Report](TO DO)|
 |389|Find the Difference|[Scala](sol-module/src/No389.scala)|[Report](TO DO)|
